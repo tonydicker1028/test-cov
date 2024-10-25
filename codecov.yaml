@@ -1,7 +1,6 @@
 codecov:
   require_ci_to_pass: yes
   notify:
-    after_n_builds: 8
     wait_for_ci: yes
 comment: #this is a top-level key
   layout: " diff, flags, files"
